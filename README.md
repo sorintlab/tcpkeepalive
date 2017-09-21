@@ -1,5 +1,6 @@
 Fine grained tcp keepalive control
 
+[![Build Status](https://travis-ci.org/sorintlab/tcpkeepalive.svg?branch=master)](https://travis-ci.org/sorintlab/tcpkeepalive)
 [![GoDoc](https://godoc.org/github.com/sorintlab/tcpkeepalive?status.svg)](http://godoc.org/github.com/sorintlab/tcpkeepalive)
 
 ### Requirements
