@@ -6,7 +6,7 @@ import (
 	"time"
 )
 
-func TestSetKeepAliveIdle(t *testing.T) {
+func TestSetKeepAlive(t *testing.T) {
 	ln, err := net.Listen("tcp4", "127.0.0.1:0")
 	if err != nil {
 		t.Fatalf("unexpected error: %v", err)
